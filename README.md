@@ -74,12 +74,3 @@ Sorting and grouping: ORDER BY, GROUP BY.
 
 Joins: Multiple inner joins to link clients, orders, shops, and deliveries.
 
-## File Structure
-File	                    Description
-CreateTables.sql	Creates all tables and relationships.
-InsertData.sql	Populates tables with sample data.
-Procedures.sql	Contains stored procedures.
-Triggers.sql	Contains triggers for business rules.
-Views.sql	Contains views for reporting.
-Constraints.sql	Contains CHECK, UNIQUE, and ON DELETE CASCADE constraints.
-Queries_....sql	Contains sample queries for reporting and testing.
